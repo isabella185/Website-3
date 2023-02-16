@@ -1,0 +1,15 @@
+table, th, td{
+  border: 1px solid black;
+}
+table{
+  background-color: pink;
+}
+body{
+  background-image:
+    url(https://pbcchicago.com/wp-content/uploads/2018/03/2021-09-15-PBC-John-Hancock-College-Preparatory-High-School_PP12952-scaled.jpg);
+    background-repeat:no repeat;
+    background-attachment:fixed;
+    Background-Size:Cover;
+}
+  
+   
